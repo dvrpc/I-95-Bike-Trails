@@ -1,0 +1,52 @@
+{
+  "showLegend": true,
+  "contextMenu": {
+    "ZoomTo": true,
+    "Transparency": true,
+    "EnableOrDisablePopup": true,
+    "MoveupOrMovedown": true,
+    "OpenAttributeTable": false,
+    "DescriptionOrShowItemDetailsOrDownload": true
+  },
+  "layerOptions": {
+    "I95_Bike_Trails_3012": {
+      "display": true
+    },
+    "I95_Bike_Trails_3012_0": {
+      "display": true
+    },
+    "I95_Bike_Trails_3012_1": {
+      "display": true
+    },
+    "I95_Bike_Trails_3012_2": {
+      "display": true
+    },
+    "I95_Bike_Trails_3012_3": {
+      "display": true
+    },
+    "I95_Bike_Trails_3012_4": {
+      "display": true
+    },
+    "I95_Bike_Trails_3012_5": {
+      "display": true
+    },
+    "I95_Bike_Trails_3012_6": {
+      "display": true
+    },
+    "I95_Bike_Trails_3012_7": {
+      "display": true
+    },
+    "I95_Bike_Trails_3012_8": {
+      "display": true
+    },
+    "I95_Bike_Trails_3012_9": {
+      "display": true
+    },
+    "I95_Bike_Trails_3012_10": {
+      "display": true
+    },
+    "I95_Bike_Trails_3012_11": {
+      "display": true
+    }
+  }
+}

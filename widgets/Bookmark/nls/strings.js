@@ -31,7 +31,7 @@ define({
     syncNoticeTips: "This will erase all your modifications and restore the configured bookmarks.",    
     dontShowAgain: "Don’t show again",
 
-    _widgetLabel: "Bookmark"
+    _widgetLabel: "Sections"
   }),
   "ar": 1,
   "bs": 1,
